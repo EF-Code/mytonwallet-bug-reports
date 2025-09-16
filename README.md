@@ -2,7 +2,7 @@
 
 ## 🛡️ Overview
 
-This repository contains my submissions for the **MyTonWallet Bug Bounty Program**. As a professional security researcher and bug bounty hunter, I have conducted a thorough assessment of the MyTonWallet Android Application, focusing on its UI, layout and logic flow.
+This repository contains my submissions for the **MyTonWallet Bug Bounty Program**. As a professional security researcher and bug bounty hunter, I have conducted a thorough assessment of the MyTonWallet Android Application focusing on its UI, layout and logic flow.
 
 All findings are responsibly disclosed and follow the scope and guidelines outlined by the bounty program organizers.
 
@@ -12,10 +12,10 @@ All findings are responsibly disclosed and follow the scope and guidelines outli
 
 Each reported issue has been submitted as a separate GitHub issue in this repository and follows a standardized format including a detailed description, severity rating, reproduction steps, impact analysis, and recommended mitigations.
 
-- `Issue #1`: Seed Phrase Flow Skips to Step 3 When Pressing Back in Landscape Mode
-- `Issue #2`: Passcode Screen UI Breaks in Landscape Mode
-- `Issue #3`: Wallet Balance and Address Overlap in Landscape Mode (Layout Break)
-- `Issue #4`: PIN Input Keyboard Becomes Invisible When Switching to Light Mode During Transaction Confirmation
+- [`Issue #1`](https://github.com/EF-Code/mytonwallet-bug-reports/issues/1): Seed Phrase Flow Skips to Step 3 When Pressing Back in Landscape Mode
+- [`Issue #2`](https://github.com/EF-Code/mytonwallet-bug-reports/issues/3): Passcode Screen UI Breaks in Landscape Mode
+- [`Issue #3`](https://github.com/EF-Code/mytonwallet-bug-reports/issues/4): Wallet Balance and Address Overlap in Landscape Mode (Layout Break)
+- [`Issue #4`](https://github.com/EF-Code/mytonwallet-bug-reports/issues/5): PIN Input Keyboard Becomes Invisible When Switching to Light Mode During Transaction Confirmation
 ---
 
 ## 🔍 Assessment Scope
