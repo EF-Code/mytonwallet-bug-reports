@@ -40,9 +40,7 @@ All vulnerabilities have been disclosed in accordance with the program's **Respo
 
 ## 🧑‍💻 Author
 
-**Security Researcher**: EF-Code
-**Contact**: eeeeemmnl@proton.me
-**Telegram**: @vangaard
+**EF-Code**
 
 ---
 
